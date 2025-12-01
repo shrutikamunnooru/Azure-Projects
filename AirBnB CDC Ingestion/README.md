@@ -34,7 +34,9 @@ A master pipeline ensures correct order:
 
 1. Load Customer Dimension  
 2. Load Booking Fact  
-3. Send notifications  
+3. Send notifications
+
+<img width="1674" height="1250" alt="image" src="https://github.com/user-attachments/assets/a891589a-0f0a-4315-a8d4-d05a95d981fc" />
 
 ---
 
